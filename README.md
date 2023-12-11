@@ -4,6 +4,8 @@
 melinnicri@gmail.com
 
 
+<p align="center"><img src="https://github.com/melinnicri/Air_accidents/blob/main/images/plane.png"></p>
+
 
 
 ## Background:
@@ -38,7 +40,14 @@ Aeroflot with almost 5,000 deaths throughout the 113 years of air flights around
 ### Box plot with whiskers (Python notebook): 
 <center>
 Regarding the deceased Passengers, between 1908 and 2021, an average of 17 is shown, with a standard deviation of 33 (dispersion of the data), in 25% of the accidents there is 1 deceased passenger, in 50% there are 6 deceased passengers, in 75% there are 19 deceased passengers, there was a maximum of 560 passengers (and a minimum of 0 deceased passenger).
+
+<p align="center"><img src="https://github.com/melinnicri/Air_accidents/blob/main/images/Pass_fatal.jpg"></p>
+
+
 Regarding deceased crew members, between 1908 and 2021, there is an average of 6, standard deviation of 19, in 25% of accidents there is 1 deceased crew member, in 50% there are 3 deceased crew members, in 75% there are 5 deceased crew members, there was a maximum of 505 (minimum 0) deceased crew members.
+
+<p align="center"><img src="https://github.com/melinnicri/Air_accidents/blob/main/images/Crew_fatal.jpg"></p>
+
 Values outside the boxes would be outliers.
 Among the values of the deceased crew members, less distance is seen in relation to the values of the deceased passengers (it could be due to the higher number of counts)(see “eda.ipynb”).
 </center>
