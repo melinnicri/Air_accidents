@@ -20,7 +20,7 @@ Plane crashes can also have a higher number of victims due to the large number o
 According to the International Civil Aviation Organization (ICAO), the number of global air accidents has been decreasing over the years. In 2019, there were 13 accidents, which is a decrease from 2018, when there were 18 accidents.
 One dataset provides a complete history of air crashes worldwide from 1908 to 2021. It contains information on more than 4,000 air crashes, including location, operator, and fatalities (passengers and crew).
 In terms of deaths, they have been recorded in air travel in each of the last 16 years, with a total of 128 deaths in 2021 due to air accidents.
-According to the data analysis, see ([PowerBI Dashboard](https://github.com/melinnicri/Air_accidents/blob/main/Air_traficc.pbix)), there has been a downward trend since 2004; 
+According to the data analysis, see (["PowerBI Dashboard"](https://github.com/melinnicri/Air_accidents/blob/main/Air_traficc.pbix)), there has been a downward trend since 2004; 
 - KPI1: regarding the 10% reduction in crew fatality between 2001 and 2021, for the range 2001-2011, it is decreased by (-0.30). For the 2011-2021 range, below 10% as well (-0.77).
 - KPI2: Regarding the survival rate, between 2001-2011, from an average of 16.40% for 2011-2021, it also decreases, to 14.29% (difference of -0.14).
 - KPI3: The Average Crew Death Rate per Operator is 3%.
